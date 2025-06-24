@@ -1,1 +1,3 @@
-# These are some the AI ideas that chatgpt gave me when I was board, I'm sharing these here because I'm not even capable of building any of this.
+# 🧠 Menu of Mindfuck Ideas
+
+## These are some the AI ideas that chatgpt gave me when I was board, I'm sharing these here because I'm not even capable of building any of this.
