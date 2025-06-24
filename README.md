@@ -1,8 +1,14 @@
-# 🧠 AI Project Idea Incubator: A Menu of Mind-Bending Concepts 💡
+# 🧠 AI Project Idea Incubator: A Menu of Mind-Bending Concepts <a name="-ai-project-idea-incubator-a-menu-of-mind-bending-concepts-"></a>💡
 
 Welcome to the AI Project Idea Incubator! This repository is a curated collection of fascinating, ambitious, and sometimes mind-bending AI project ideas. If you're looking for inspiration that pushes the boundaries of conventional thinking for your next hackathon, a personal project, or simply enjoy brainstorming the future of AI, you've come to the right place.
 
 Many of these concepts were initially brainstormed with the help of LLMs like ChatGPT and represent a wide range of potential applications and technological explorations – some more audacious than others!
+
+## 📚 Table of Contents
+
+- [🧠 AI Project Idea Incubator: A Menu of Mind-Bending Concepts 💡](#-ai-project-idea-incubator-a-menu-of-mind-bending-concepts-)
+- [📂 Repository Structure](#-repository-structure)
+- [🤝 How to Contribute](#-how-to-contribute)
 
 ## 📂 Repository Structure
 
@@ -10,6 +16,7 @@ The AI project ideas are organized into directories based on their perceived dif
 
 - **`/Easy`**: These ideas are generally more focused, with a narrower scope. They might be suitable for weekend projects, learning exercises, or initial explorations into a new AI domain.
 - **`/Intermediate`**: These concepts are more involved, potentially requiring a broader range of technologies, more intricate system design, or a deeper understanding of specific AI techniques.
+- **`/GOD`**: This special directory houses extremely ambitious, conceptual, or "mind-bending" project ideas that might stretch the definition of what's currently feasible or are grand in scope.
 
 Each idea is presented in its own Markdown file, typically including:
 
